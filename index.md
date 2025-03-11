@@ -8,15 +8,15 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Marwa SEDDATI
+Elève ingénieur en énergies renouvelables
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir de 05-06-2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[marwa.seddati@etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+https://www.linkedin.com/in/marwa-seddati-496440346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-Permis B, voiture
+
 
