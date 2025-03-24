@@ -20,6 +20,7 @@ Fondation attijari wafabank
 
 `2024 `
 Groupe scolaire la Joconde, Casablanca, Maroc 
+
 Baccalauréat sciences physique – mention Bien 
 
 ## Expériences
@@ -50,9 +51,9 @@ _Réalisé en équipe de 3 étudiants_
 
 _Stage ouvrier
 
-Découverte de la production : Observation des étapes de fabrication des véhicules électriques.
+* Découverte de la production : Observation des étapes de fabrication des véhicules électriques.
 
-Support aux équipes : Aide à l’assemblage et au contrôle qualité.
+* Support aux équipes : Aide à l’assemblage et au contrôle qualité.
 
 `2023` ** Fondation attijari wafabank **
 
@@ -60,11 +61,11 @@ _Intitulé du poste dans une équipe de 20 membres_
 
 * Création artistique : Dessin, peinture, collage et expérimentation de techniques variées.
 
-Recyclage : Réalisation d’œuvres avec des matériaux récupérés.
+* Recyclage : Réalisation d’œuvres avec des matériaux récupérés.
 
-Expression visuelle : Travail sur la composition, les couleurs et les textures.
+* Expression visuelle : Travail sur la composition, les couleurs et les textures.
 
-Projet créatif : Conception et finalisation d’œuvres originales.
+* Projet créatif : Conception et finalisation d’œuvres originales.
 
 ## Compétences
 
