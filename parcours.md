@@ -79,6 +79,7 @@ Langue
 Informatique 
 
 • Programme C 
+
 • Python 
 
 ## Centres d’intérêt
@@ -86,10 +87,13 @@ Informatique
 Atouts 
 
 • Curieuse 
-• Motivée 
+
+• Motivée
+
 • Attentive  
 
 Loisirs 
 
 • Regarder le Foot 
+
 • Voyages 
