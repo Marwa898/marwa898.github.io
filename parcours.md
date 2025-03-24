@@ -11,7 +11,7 @@ download_cv: assets/docs/Template_CV.pdf
 `2024 – 2029 `
 UniLaSalle Amiens 
 
-*Elève ingénieur en système numérique et génie 
+* Elève ingénieur en système numérique et génie 
  énergétique – 1ère année prépa-intégrée 
 
 `2023`
