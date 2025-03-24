@@ -9,13 +9,13 @@ download_cv: assets/docs/Template_CV.pdf
 ## Formation 
 
 `2024 – 2029 `
-**UniLaSalle Amiens **
+UniLaSalle Amiens 
 
 Elève ingénieur en système numérique et génie 
  énergétique – 1ère année prépa-intégrée 
 
 `2023`
-**Fondation attijari wafabank **
+Fondation attijari wafabank 
 - Atelier de dessins 
 
 `2024 `
