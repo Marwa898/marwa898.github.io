@@ -8,60 +8,72 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029 `
+**UniLaSalle Amiens **
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en système numérique et génie 
+ énergétique – 1ère année prépa-intégrée 
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2023`
+**Fondation attijari wafabank **
+- Atelier de dessins 
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024 `
+Groupe scolaire la Joconde, Casablanca, Maroc 
+Baccalauréat sciences physique – mention Bien 
 
 ## Expériences
 
 `20XX` **Projet d’étude – préciser le thème du projet**
 
 _Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+• Conception prototypage 
+   Réaliser un dock switch (onshape, machine de laser, imprimente 3D...)   
+   Réaliser une version du robot Otto (participer au Tournoi)        
+   • Projet mathématique 
+Appliquer des outils mathématiques et lier entre les mathématiques et d’autres phénomènes. 
+• Programmation 
+Programmer le jeu d’awalé en langage C 
+• Electronique 
+Préparer une carte électronique à 0 
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2025` **Entreprise Ampère, constructeur automobile**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage ouvrier
+Découverte de la production : Observation des étapes de fabrication des véhicules électriques.
+Support aux équipes : Aide à l’assemblage et au contrôle qualité.
 
-`20XX` **Association, description de l’asso., taille**
+`2023` ** Fondation attijari wafabank **
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Intitulé du poste dans une équipe de 20 membres_
+* Création artistique : Dessin, peinture, collage et expérimentation de techniques variées.
+
+Recyclage : Réalisation d’œuvres avec des matériaux récupérés.
+
+Expression visuelle : Travail sur la composition, les couleurs et les textures.
+
+Projet créatif : Conception et finalisation d’œuvres originales.
 
 ## Compétences
 
-Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+Langue
+• Français : courant  
+• Anglais : courant  
+• Allemand : débutant  
+• Arabe : langue maternelle 
 
-Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+Informatique 
+• Programme C 
+• Python 
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Atouts 
+• Curieuse 
+• Motivée 
+• Attentive  
 
-Loisirs 1
-* Description 
-* Description 
+Loisirs 
+• Regarder le Foot 
+• Voyages 
