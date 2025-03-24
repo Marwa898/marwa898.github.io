@@ -26,27 +26,38 @@ Baccalauréat sciences physique – mention Bien
 
 `20XX` **Projet d’étude – préciser le thème du projet**
 
-_Réalisé en équipe de XX étudiants_
+_Réalisé en équipe de 3 étudiants_
+
 • Conception prototypage 
+
    Réaliser un dock switch (onshape, machine de laser, imprimente 3D...)   
-   Réaliser une version du robot Otto (participer au Tournoi)        
-   • Projet mathématique 
-Appliquer des outils mathématiques et lier entre les mathématiques et d’autres phénomènes. 
+   Réaliser une version du robot Otto (participer au Tournoi)  
+   
+• Projet mathématique 
+
+   Appliquer des outils mathématiques et lier entre les mathématiques et d’autres phénomènes. 
+   
 • Programmation 
-Programmer le jeu d’awalé en langage C 
+
+   Programmer le jeu d’awalé en langage C 
+   
 • Electronique 
-Préparer une carte électronique à 0 
+
+   Préparer une carte électronique à 0 
 
 
 `2025` **Entreprise Ampère, constructeur automobile**
 
 _Stage ouvrier
+
 Découverte de la production : Observation des étapes de fabrication des véhicules électriques.
+
 Support aux équipes : Aide à l’assemblage et au contrôle qualité.
 
 `2023` ** Fondation attijari wafabank **
 
 _Intitulé du poste dans une équipe de 20 membres_
+
 * Création artistique : Dessin, peinture, collage et expérimentation de techniques variées.
 
 Recyclage : Réalisation d’œuvres avec des matériaux récupérés.
@@ -58,22 +69,26 @@ Projet créatif : Conception et finalisation d’œuvres originales.
 ## Compétences
 
 Langue
+
 • Français : courant  
 • Anglais : courant  
 • Allemand : débutant  
 • Arabe : langue maternelle 
 
 Informatique 
+
 • Programme C 
 • Python 
 
 ## Centres d’intérêt
 
 Atouts 
+
 • Curieuse 
 • Motivée 
 • Attentive  
 
 Loisirs 
+
 • Regarder le Foot 
 • Voyages 
